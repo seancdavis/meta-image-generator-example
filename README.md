@@ -24,4 +24,4 @@ Note that images won't be generated if an `image` reference already exists in th
 
 ## License
 
-This falls under the license of the seancdavis-com project. See the license file in the monorepo root for more information.
+This falls under [the license of the seancdavis-com project](https://www.seancdavis.com/license/). See the license file in the monorepo root for more information.
